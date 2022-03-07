@@ -33,4 +33,17 @@ reference, placing the scale on 0g;
 sends a warning message on the phone that the weight on the scale has exceeded 2 kg.
 ## System screenshots
 ![Calibration phase](https://i.pinimg.com/564x/8b/e6/6e/8be66e452d4f269a5cf6e25fc5bd7d70.jpg#gh-dark-mode-only)
-![Calibratiob phase](https://i.pinimg.com/564x/9a/76/08/9a76083675c88e651004e105c621ca34.jpg#gh-dark-mode-only)
+![Calibration phase](https://i.pinimg.com/564x/9a/76/08/9a76083675c88e651004e105c621ca34.jpg#gh-dark-mode-only)
+![Calibration phase](https://i.pinimg.com/564x/d4/99/5a/d4995a5e98926b829abf37768e92109e.jpg#gh-dark-mode-only)
+## Used components
+- 1x Arduino UNO board
+- 1x weight sensor
+- 2x wooden boards
+- 1x LCD I2C 16x2 (green color)
+- 1x HX711 module for weight sensor
+- 1x Bluetooth hc-05 module 
+- 1x 4 buttons board
+- 1x USB cable
+- father-father and mother-father 
+
+
