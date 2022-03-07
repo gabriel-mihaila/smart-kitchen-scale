@@ -32,4 +32,4 @@ reference, placing the scale on 0g;
 - If the scale detects a considerable weight (for example, I set it to 2 kg), it will
 sends a warning message on the phone that the weight on the scale has exceeded 2 kg.
 ## System screenshots
-![Calibratiob phase](https://i.pinimg.com/564x/af/31/f5/af31f54ec41988b56c77eb6c72a83800.jpg)
+![Calibratiob phase](https://i.pinimg.com/564x/af/31/f5/af31f54ec41988b56c77eb6c72a83800.jpg#gh-dark-mode-only)
