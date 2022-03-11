@@ -44,6 +44,5 @@ sends a warning message on the phone that the weight on the scale has exceeded 2
 - 1x Bluetooth hc-05 module 
 - 1x 4 buttons board
 - 1x USB cable
-- father-father and mother-father 
 
 
